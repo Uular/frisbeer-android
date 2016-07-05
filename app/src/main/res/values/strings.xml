@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Frisbeer</string>
+
+    <string name="pref_key_endpoint">preference_endpoint</string>
+    <string name="pref_title_endpoint">API endpoint</string>
+    <string name="pref_default_endpoint">https://moetto.duckdns.org/frisbeer/API/</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment_text_players">Players</string>
+    <string name="fragment_text_games">Games</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
